@@ -2,7 +2,6 @@
 using namespace std;
 
 class PriorityQueue{
-
 public:
     int front = -1;
     int rear = -1;
